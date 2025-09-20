@@ -1,0 +1,17 @@
+# Travel Explorer Website
+
+## Dependencies
+
+### External Libraries
+- [Font Awesome](https://fontawesome.com/) (CDN)
+- [Google Fonts](https://fonts.google.com/) (CDN)
+- [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) (CDN)
+
+### APIs
+- [Unsplash API](https://unsplash.com/developers)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+
+### Tools
+- VS Code (or any code editor)
+- Live Server (for local testing)
+- Git/GitHub (for version control)
